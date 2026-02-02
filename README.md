@@ -1,12 +1,5 @@
 # 👨‍💻 Matheus Rafael - Desenvolvedor Fullstack
 
-<div align="center">
-  <a href="https://github.com/MatheusRafaDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRafaDev&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRafaDev&layout=compact&card_width=320&theme=github_dark&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas" />
-  </a>
-</div>
-
 ---
 
 ## 🚀 Tecnologias que domino
@@ -53,4 +46,4 @@ Sempre em busca de **novos desafios** e aprendizado constante.
 
 ---
 
-Obrigado por visitar meu perfil! 😄  
+Obrigado por visitar meu perfil! 😄
