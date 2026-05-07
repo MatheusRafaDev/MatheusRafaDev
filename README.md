@@ -54,7 +54,7 @@ Aplicação para digitalização e organização de documentos médicos utilizan
 - Organização estruturada de histórico médico  
 - Foco em acessibilidade e agilidade no acesso às informações  
 
-**Stack:** C# | .NET | React | SQL Server | OCR + IA  
+**Stack:** Java | React | SQL Server | OCR + IA  
 
 🔗 https://saude-memora.vercel.app  
 📦 https://github.com/MatheusRafaDev/saude-memora  
