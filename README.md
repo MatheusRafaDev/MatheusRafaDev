@@ -1,8 +1,8 @@
-# 👨‍💻 Matheus Rafael - Desenvolvedor Back-end
+# Matheus Rafael - Desenvolvedor Back-end
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Desenvolvedor com foco em **Back-end**, com experiência sólida no desenvolvimento e manutenção de sistemas corporativos (ERP), atuando principalmente com **Node.js, TypeScript e SQL Server**.
 
@@ -14,7 +14,7 @@ Tenho forte interesse em **arquitetura de software, cloud computing e integraç�
 
 ---
 
-## 📚 Em evolução
+## Em evolução
 
 Atualmente aprofundando conhecimentos em:
 
@@ -26,9 +26,9 @@ Atualmente aprofundando conhecimentos em:
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🟣 Casal Planner
+### Casal Planner
 
 Plataforma full-stack para planejamento financeiro de casais, com foco em organização de compras e otimização de gastos.
 
@@ -40,12 +40,12 @@ Plataforma full-stack para planejamento financeiro de casais, com foco em organi
 
 **Stack:** ASP.NET Core | React | MongoDB | Docker | IA  
 
-🔗 https://casalplanner.vercel.app/  
-📦 https://github.com/MatheusRafaDev/casal-planner  
+Site em produção: https://casalplanner.vercel.app/  
+Git: https://github.com/MatheusRafaDev/casal-planner  
 
 ---
 
-### 🏥 SaúdeMemora
+### SaúdeMemora
 
 Aplicação para digitalização e organização de documentos médicos utilizando OCR e IA.
 
@@ -56,24 +56,24 @@ Aplicação para digitalização e organização de documentos médicos utilizan
 
 **Stack:** Java | React | SQL Server | OCR + IA  
 
-🔗 https://saude-memora.vercel.app  
-📦 https://github.com/MatheusRafaDev/saude-memora  
+Site em produção: https://saude-memora.vercel.app  
+Git: https://github.com/MatheusRafaDev/saude-memora  
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 Node.js | TypeScript | JavaScript | SQL Server | C# | .NET | Java | Spring Boot | MongoDB | Docker | AWS | Git | GitHub  
 
 ---
 
-## 📫 Contato
+##  Contato
 
-📧 rafaelmatheus061@gmail.com  
-📱 (11) 95660-1009  
-🔗 https://linkedin.com/in/matheus-rafael  
-🐙 https://github.com/MatheusRafaDev  
+ E-mail: rafaelmatheus061@gmail.com  
+ Telefone: (11) 95660-1009  
+ Linkedln: https://linkedin.com/in/matheus-rafael  
+ Git: https://github.com/MatheusRafaDev  
 
 ---
 
-📍 São Paulo - SP
+São Paulo - SP
