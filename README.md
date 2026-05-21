@@ -32,12 +32,6 @@ Atualmente aprofundando conhecimentos em:
 
 Plataforma full-stack para planejamento financeiro de casais, com foco em organização de compras e otimização de gastos.
 
-**Destaques:**
-- Arquitetura completa com backend em ASP.NET Core e frontend em React  
-- Integração com IA (Llama 3.1) para pesquisa e análise de preços  
-- Sistema de autenticação com JWT e cookies HttpOnly  
-- Containerização com Docker  
-
 **Stack:** ASP.NET Core | React | MongoDB | Docker | IA  
 
 Site em produção: https://casalplanner.vercel.app/  
